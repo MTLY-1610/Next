@@ -1,15 +1,11 @@
 # Next
-Next. js tutorial
-
-Learning Next.js for future gigs :I
-
-Routing
-Pre- rendering
-Static generation
-
+Learning Next.js for future gigs 
+  Routing
+  Pre- rendering
+  Static generation
 Only aim's being a prove of concept.
 
-/////////////////////////////
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
