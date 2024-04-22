@@ -1,8 +1,10 @@
 # Next
 Learning Next.js for future gigs 
-  Routing
-  Pre- rendering
+
+  Routing,
+  Pre-rendering and
   Static generation
+  
 Only aim's being a prove of concept.
 
 
