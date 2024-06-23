@@ -1,0 +1,21 @@
+/* components/Menu.module.css */
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    padding: 0 4vw 0 4vw;
+    height: 6vw;
+    color: pink;
+    opacity: 1;
+    font-family: "field-gothic-xwide", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2vw;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+
+}
