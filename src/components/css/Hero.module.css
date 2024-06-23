@@ -1,0 +1,15 @@
+.hero-cont {
+    display: flex;
+    flex-direction: column;
+    height:92vh;
+  
+
+}
+
+.hero-pitch {
+    display: flex;
+    font-family: "field-gothic-xwide", sans-serif;
+    padding: 4vw 4vw 4vw 4vw;    font-weight: 700;
+    font-style: normal;
+    font-size: 8vw;
+}

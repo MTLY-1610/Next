@@ -1,7 +1,7 @@
 // components/Menu.js
 
 import Link from 'next/link';
-import styles from './Menu.module.css';;
+import styles from '../css/Menu.module.css';
 
 const Menu = () => {
   return (

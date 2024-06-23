@@ -1,10 +1,13 @@
-.hero {
+.menu {
     display: flex;
+    height: 6vw;
+
 }
 
 .menu-cont {
     display: flex;
     flex-direction: row;
+    padding: 4vw 4vw 4vw 4vw;
     width: 100vw;
     font-family: "field-gothic-xwide", sans-serif;
     font-weight: 700;
@@ -15,8 +18,7 @@
     z-index: 10;
     position: fixed;
     top: 0;
-    padding: 0 4vw 0 4vw;
-    height: 6vw;
-    color: black;
+
+
     opacity: 1;
 }

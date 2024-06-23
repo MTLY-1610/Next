@@ -1,14 +1,14 @@
 import Image from "next/image";
-import Menu from "../components/Menu";
-import Hero from "../components/Hero";
+import Vert from "../components/main/Vert";
 
 export default function Home() {
   return (
     
-    <>
-    <Menu />
-    <Hero />
-    </>
+    <body >
+      <section>
+       <Vert/>
+      </section>
+    </body>
     
   );
 }
