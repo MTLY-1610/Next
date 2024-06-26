@@ -1,0 +1,8 @@
+.hor {
+    display: flex;
+    flex-direction: column;
+    width: 300vw;
+    height: 100vh;
+    background-color: grey;
+    
+}
